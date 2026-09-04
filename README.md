@@ -1,4 +1,4 @@
-# biblioteca-java
+# Library Management System
 
 A library management system in Java with full CRUD on four modules (Author, Book, User, Loan) and an interactive CLI menu.
 

@@ -12,7 +12,6 @@ A library management system in Java with full CRUD on four modules (Author, Book
 - Abstract superclass `Pessoa` extended by `Autor` and `Usuario` (inheritance + abstraction)
 - Polymorphic `exibirInfo()` overridden in each subclass
 - In-memory storage with `ArrayList` and a borrow/return business rule that updates book availability
-- Includes a slide deck (`Apresentacao_Biblioteca.pdf`)
 
 ## Running
 
